@@ -1,0 +1,5 @@
+# Assignment A ledger and tests.
+cryptography>=44.0
+python-dotenv>=1.0
+tzdata>=2024.1
+pytest>=8.0
